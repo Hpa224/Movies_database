@@ -64,9 +64,10 @@ def selection(id):
     conn.close()
     return rows
 
-# connect()
+connect()
 # update()
-# delete()
+# delete(7)
+# insert()
 # view_2()
 # print()
 # print(view())
